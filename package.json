@@ -20,7 +20,7 @@
     "test:watch": "npx jest --watch"
   },
   "dependencies": {
-    "rxjs": "^6.6.0"
+    "rxjs": "^7.5.6"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
